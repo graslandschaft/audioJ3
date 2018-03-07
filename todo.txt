@@ -1,0 +1,17 @@
+- add: go-to-timepoint gui
+- add: screenshot, optional for each plugin
+- add: save notes and timestamp for later analysis
+- add: tool for measuring and saving distances in x and y
+- add: ask if info should be saved
+- add: save events
+- add: a way to modify plugin-options and shortcuts; gui or cfg (which could easily be the same via generic gui)
+- add: spec functions to increase/decrase noverlap
+- add: key overview
+- add: peak-detector
+- adjustment for fft overlap and show it
+- add: spec vmin vmax adjustment
+
+- CLEAN UP: improve structure of plugins and their access to data, e.g. plugins for plugins
+- data generator: load surrounding data in background to make browsing faster
+- showing larger data-traces: improve display of downsampled data
+- use more flexible functions for envelope generation (and peak detection)
